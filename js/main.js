@@ -50,6 +50,8 @@
       'carousel.region': 'Otros proyectos',
       'education.title': 'Formación',
       'education.degree': 'Desarrollo de Aplicaciones Multiplataforma (DAM)',
+      'education.degree2': 'Especialización en Big Data + Inteligencia Artificial',
+      'education.year2': 'En curso',
       'contact.title': 'Contacto',
       'contact.lead': 'Estoy deseando trabajar en nuevos proyectos. Escríbeme.',
       'footer.made': 'Hecho a mano con HTML, CSS y JS puro.'
@@ -97,6 +99,8 @@
       'carousel.region': 'Other projects',
       'education.title': 'Education',
       'education.degree': 'Multiplatform App Development (DAM)',
+      'education.degree2': 'Specialization in Big Data + Artificial Intelligence',
+      'education.year2': 'In progress',
       'contact.title': 'Contact',
       'contact.lead': "I'm looking forward to working on new projects. Get in touch.",
       'footer.made': 'Handcrafted with plain HTML, CSS and JS.'
